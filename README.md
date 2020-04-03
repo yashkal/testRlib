@@ -16,6 +16,8 @@ packages of my own.
 
 [R packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
 
+[David Robinson Screencast](https://www.youtube.com/watch?v=F4oUJp76KUY)
+
 [Writing an R package from
 scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 blog post from Hilary Parker
